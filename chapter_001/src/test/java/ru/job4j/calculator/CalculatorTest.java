@@ -18,6 +18,7 @@ public class CalculatorTest {
         double expected = 2D;
         assertThat(result, is(expected));
     }
+
     @Test
     public void whenFirstSubSecond() {
         Calculator calc = new Calculator();
@@ -26,6 +27,7 @@ public class CalculatorTest {
         double expected = 4D;
         assertThat(result, is(expected));
     }
+
     @Test
     public void whenFirstDivSecond() {
         Calculator calc = new Calculator();
@@ -34,6 +36,7 @@ public class CalculatorTest {
         double expected = 1.5D;
         assertThat(result, is(expected));
     }
+
     @Test
     public void whenFirstMultSecond() {
         Calculator calc = new Calculator();
