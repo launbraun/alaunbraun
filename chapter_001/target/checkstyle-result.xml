@@ -2,9 +2,21 @@
 <checkstyle version="6.11.2">
 <file name="C:\projects\alaunbraun\chapter_001\src\main\java\ru\job4j\Calculate.java">
 </file>
+<file name="C:\projects\alaunbraun\chapter_001\src\main\java\ru\job4j\calculator\Calculator.java">
+</file>
+<file name="C:\projects\alaunbraun\chapter_001\src\main\java\ru\job4j\calculator\Converter.java">
+</file>
+<file name="C:\projects\alaunbraun\chapter_001\src\main\java\ru\job4j\calculator\Fit.java">
+</file>
 <file name="C:\projects\alaunbraun\chapter_001\src\main\java\ru\job4j\package-info.java">
 </file>
 <file name="C:\projects\alaunbraun\chapter_001\src\test\java\ru\job4j\CalculateTest.java">
+</file>
+<file name="C:\projects\alaunbraun\chapter_001\src\test\java\ru\job4j\calculator\CalculatorTest.java">
+</file>
+<file name="C:\projects\alaunbraun\chapter_001\src\test\java\ru\job4j\calculator\ConverterTest.java">
+</file>
+<file name="C:\projects\alaunbraun\chapter_001\src\test\java\ru\job4j\calculator\FitTest.java">
 </file>
 <file name="C:\projects\alaunbraun\chapter_001\src\test\java\ru\job4j\package-info.java">
 </file>
