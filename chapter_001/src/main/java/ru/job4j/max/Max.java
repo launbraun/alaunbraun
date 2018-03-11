@@ -29,4 +29,17 @@ public class Max {
     public int summation(int first, int second) {
         return first + second;
     }
+
+    /**
+     * Метод вычисляет и возвращает максимальное из трех значений
+     * @param first - первое значение
+     * @param second - второе значение
+     * @param third - третье значение
+     * @return Максимальное значение
+     */
+    public int max(int first, int second, int third) {
+        int temp = this.max(first, second);
+        temp = this.max(temp, third);
+        return temp;
+    }
 }

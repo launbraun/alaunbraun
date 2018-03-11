@@ -26,4 +26,11 @@ public class MaxTest {
         int result = sum.summation(2, 3);
         assertThat(result, is(5));
     }
+
+    @Test
+    public void whenFirstLessSecondLessThird() {
+        Max maximum = new Max();
+        int result = maximum.max(2, 3, 5);
+        assertThat(result, is(5));
+    }
 }
