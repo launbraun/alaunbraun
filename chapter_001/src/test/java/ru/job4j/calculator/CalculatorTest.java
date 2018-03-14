@@ -9,6 +9,12 @@ import org.junit.Test;
 import static org.hamcrest.core.Is.is;
 import static org.junit.Assert.assertThat;
 
+/**
+ * Тест класса калькулятор
+ * @author Alesksand Launbraun
+ * @since 10.03.2018
+ * @version 1.0
+ */
 public class CalculatorTest {
     @Test
     public void whenAddOnePlusOneThenTwo() {
