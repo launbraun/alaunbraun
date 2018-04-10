@@ -55,8 +55,7 @@ public class Triangle {
      * @return true или false
      */
     private boolean exist(double ab, double ac, double bc) {
-        if (ab + ac < bc)  {}
-        return true;
+        return !(Math.abs(ab) == 0 || Math.abs(ac) == 0 || Math.abs(bc) == 0);
     }
 }
 
